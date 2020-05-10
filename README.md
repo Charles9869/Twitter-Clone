@@ -8,9 +8,9 @@ This is a single user Twitter clone for cats. You can create, like and share twe
 - NodeJS and express
 
 ## RUN LOCALLY
-
-clone using https://github.com/Charles9869/Twitter-Clone.git
-
+```
+git clone https://github.com/Charles9869/Twitter-Clone.git
+```
 ## SCREENSHOTS
 
 ### HomeFeed
