@@ -9,17 +9,17 @@ This is a single user Twitter clone for cats. You can create, like and share twe
 
 ## RUN LOCALLY
 ```
-git clone https://github.com/Charles9869/Twitter-Clone.git
+$ git clone https://github.com/Charles9869/Twitter-Clone.git
 ```
 ```
-cd server
-yarn install
-yarn start
+$ cd server
+$ yarn install
+$ yarn start
 ```
 ```
-cd client
-yarn install
-yarn start
+$ cd client
+$ yarn install
+$ yarn start
 ```
 ## SCREENSHOTS
 
